@@ -2,7 +2,7 @@ repo_name: Egaros/httptransfertasks
 report_id: 7b54b9c4660e691b3043ed6cfd50feb3
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T07:58:18+00:00'
+timestamp: '2024-02-29T19:42:03+00:00'
 requested_by: aritchie
 provider: github
 branch: master
@@ -60,7 +60,7 @@ tools:
   last_updated_by: Allan Ritchie
   last_updated_on: 2017-05-02 13:41:16.000000000 Z
 - name: Xamarin Forms
-  description: " A complete cross-platform UI toolkit for .NET developers"
+  description: A complete cross-platform UI toolkit for .NET developers
   website_url: http://developer.xamarin.com/guides/cross-platform/xamarin-forms/
   open_source: false
   hosted_saas: false
